@@ -1,2 +1,4 @@
-# face-recognition-highlow-game
-Basic sample of High Low Card game played by facial expressions (wink, smile) and head rotation (left, right)
+# High Low Card Game with Firebae ML Kit Face detection/recognition
+This is small sample of playing High Low Card game by using facial expressions and head movement with Firebase ML Kit. 
+
+Video example
