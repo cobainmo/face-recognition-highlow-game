@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="android.app.FragmentManager.findFragmentByTag(s)" />
+        <added pattern="android.arch.lifecycle.ViewModelProviders.of(fragment)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
