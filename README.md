@@ -4,5 +4,5 @@ This is basic sample of playing High Low Card game using facial expressions (eye
 For this project i used facial expression detection (Eyes open/closed, mouth status serious/neutral/happy and head rotation as well). Sample can bi installed from here: https://github.com/cobainmo/face-recognition-highlow-game/tree/master/app/release
 
 Here you can see video sample of game:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1TXo-O3RzVQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](http://img.youtube.com/vi/1TXo-O3RzVQ/0.jpg)](http://www.youtube.com/watch?v=1TXo-O3RzVQ "Face Recognition High Low Card Game")
 
