@@ -22,8 +22,24 @@
           <option name="url" value="https://github.com/cobainmo/moving_eyes_face_detection.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://phabricator.nsoft.ba/diffusion/UNITYCYCLINGSIM/unity-cyclingsim.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://phabricator.nsoft.ba/diffusion/UNITYCYCLINGSIM/unity-cyclingsim.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://phabricator.nsoft.ba/diffusion/1005/rolla-android-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://phabricator.nsoft.ba" />
+          <option name="userName" value="djogic.mensur" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Downloads/PrivateProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/Downloads/WorkProjects/cycling" />
   </component>
 </application>
