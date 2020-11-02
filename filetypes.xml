@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="MainFragmentActivity.java" type="PLAIN_TEXT" />
+      <mapping ext="tflite" type="PLAIN_TEXT" />
+      <mapping ext="flat" type="XML" />
+    </extensionMap>
+  </component>
+</application>
